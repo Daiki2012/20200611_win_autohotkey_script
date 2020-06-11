@@ -1,0 +1,6 @@
+Launch the script automatically every time you start your PC. The easiest is to place a shortcut to the script in the Startup folder:
+
+Select the file, and press Control+C.
+Press Win+R to open the Run dialog, then enter shell:startup and click OK or Enter. 
+This will open the Startup folder for the current user. 
+Copy the file in the folder.
